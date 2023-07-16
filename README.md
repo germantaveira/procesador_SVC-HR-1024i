@@ -1,6 +1,6 @@
 # Análisis de Firmas
 
-Este repositorio contiene un conjunto de herramientas y notebooks de Jupyter para el análisis de firmas utilizando datos de campo. El análisis de firmas es una técnica utilizada en teledetección y estudios ambientales para comprender la respuesta espectral de la vegetación y obtener información sobre su estado, salud y propiedades físicas.
+Este repositorio contiene dos notebooks de Jupyter para el procesamiento de archivos '.sig' generados por el espectrorradiómetro SVC HR-1024i utilizando en campañas de toma de datos de cultivos.
 
 ## Contenido
 
@@ -12,6 +12,7 @@ Este repositorio contiene un conjunto de herramientas y notebooks de Jupyter par
 
 - Python 3.x
 - Bibliotecas de Python: pandas, numpy, matplotlib, geopandas
+- También requiere el módulo xlsxwriter para guardar las firmas en xlsx
 
 ## Uso
 
