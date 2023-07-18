@@ -1,4 +1,4 @@
-# Análisis de Firmas
+# Procesamiento de Firmas
 
 Este repositorio contiene dos notebooks de Jupyter para el procesamiento de archivos '.sig' generados por el espectrorradiómetro SVC HR-1024i utilizando en campañas de toma de datos de cultivos.
 
